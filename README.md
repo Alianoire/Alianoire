@@ -11,11 +11,11 @@ Benvenuto/a nel mio profilo GitHub. Sono un appassionato di programmazione e tec
 ## Linguaggi di programmazione
 
 Ecco alcuni dei linguaggi di programmazione con cui lavoro:
-
+<p aliggn = "left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-
+</p>
 
 ## Contattami
 
