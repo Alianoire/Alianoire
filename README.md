@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Carmine!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alianoire&label=Profile%20views&color=0e75b6&style=flat" alt="Alianoire" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alianoire&theme=" alt="Alianoire" /></a> </p>
 
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
