@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile. I am passionate about programming and technology, and here you can find a variety of projects I have developed or contributed to. I am always looking for new challenges and learning opportunities in the world of programming.
 
-## Languages and Tool:
-<div> 
-  <p align ="Right">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alianoire&layout=compact)
+## Languages and Tools:
+<div>
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alianoire&layout=compact" />
   </p>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" />
