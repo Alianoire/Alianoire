@@ -11,4 +11,4 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alianoire&layout=compact&theme=dark" alt=Alianoire />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alianoire&layout=compact&theme=dark" alt=Carmine Amendola />
