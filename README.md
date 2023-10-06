@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-sap-512.png" alt="sap" width="45" height="45"/>
+<img src="https://cdn1.iconfinder.com/data/icons/computer-techologies-outline-free/128/ic_sap_logo-512.png" alt="sap" width="45" height="45"/>
 </p>
