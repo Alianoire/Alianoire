@@ -5,9 +5,8 @@ Welcome to my GitHub profile. I am passionate about programming and technology, 
 ## Languages and Tool:
 <p>
   <img src="https://vignette.wikia.nocookie.net/logopedia/images/1/13/SAP-Logo.png/revision/latest?cb=20141014003217 "width="70" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
 </p>
 
 
