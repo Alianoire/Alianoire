@@ -8,3 +8,7 @@ Welcome to my GitHub profile. I am passionate about programming and technology, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </p>
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=alianoire&show_icons=true&theme=transparent)
+![Top Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=alianoire&layout=compact)
+
