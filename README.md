@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I am passionate about programming and technology, 
 ## Languages and Tools:
 <div>
   <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alianoire&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmineamendola&layout=compact" />
   </p>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" />
