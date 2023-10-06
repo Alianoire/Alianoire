@@ -8,9 +8,7 @@ Benvenuto/a nel mio profilo GitHub. Sono un appassionato di programmazione e tec
 - **Contributi Open Source:** Mi piace contribuire alla comunità open source. Ho partecipato a progetti in diversi linguaggi di programmazione e mi piace collaborare con altri sviluppatori.
 - **Lezioni e Guide:** Ogni tanto scrivo guide e articoli su argomenti di interesse. Troverai alcuni di questi nel mio repository.
 
-## Linguaggi di programmazione
-
-Ecco alcuni dei linguaggi di programmazione con cui lavoro:
+## Languages and Tool:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
